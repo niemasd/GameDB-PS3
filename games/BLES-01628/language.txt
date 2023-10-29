@@ -1,0 +1,8 @@
+Arabic
+Czech
+Danish
+English
+Norwegian
+Polish
+Swedish
+Turkish

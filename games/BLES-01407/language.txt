@@ -1,0 +1,6 @@
+Arabic
+Dutch
+English
+Russian
+Swedish
+Turkish

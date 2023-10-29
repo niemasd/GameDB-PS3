@@ -1,0 +1,14 @@
+Afrikaans
+Danish
+Dutch
+English
+Finnish
+French
+German
+Italian
+Norwegian
+Polish
+Portuguese
+Russian
+Spanish
+Swedish

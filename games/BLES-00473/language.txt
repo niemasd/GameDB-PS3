@@ -1,0 +1,10 @@
+Czech
+English
+French
+German
+Hungarian
+Italian
+Polish
+Romanian
+Russian
+Spanish
