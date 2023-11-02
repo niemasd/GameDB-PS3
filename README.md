@@ -8,4 +8,5 @@ Sony PlayStation 3 (PS3), part of [GameDB](https://github.com/niemasd/GameDB).
 * **[`PS3.titles.json`](https://github.com/niemasd/GameDB-PS3/releases/latest/download/PS3.titles.json):** Mapping of serial numbers to game titles, structured in the JSON format
 
 # Sources
+* [MiSTer Addons](https://misteraddons.com/)
 * [Redump](http://redump.org/)
